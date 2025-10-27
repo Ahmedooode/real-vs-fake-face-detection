@@ -1,0 +1,16 @@
+Introduction
+first: face_mesh method
+second: cvzone face detector
+third: training model to distinguish between real persons or fake!
+          a- yolo version 8 models
+          b- method of training general
+          c- method of training in our case
+                -data collection
+                -data split
+                -training offline
+                -training online
+          d-results of training
+forth: after Training
+fifth: attendance system
+sixth: attendance system + Training model
+
